@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [UNRELEASED]
 (nothing yet)
 
+## [1.0.1] - 2023-07-08
+### Fixed
+- peer dependencies version
+### Dev
+- removed unused stuff (docs, deps)
+- replaced yarn with pnpm
+
 ## [1.0.0] - 2022-07-21
 ### Changed
 - re-releasing as stable version
